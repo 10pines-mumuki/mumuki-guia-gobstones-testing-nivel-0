@@ -1,8 +1,8 @@
 ---
 tags: []
-layout: input_right
-editor: text
-type: problem
+layout: input_bottom
+editor: code
+type: reading
 extra_visible: false
 language: 
 teacher_info: 
