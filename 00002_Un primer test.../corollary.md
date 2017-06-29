@@ -1,2 +1,1 @@
-
-Si vemos que solo imprimió `true` significa que al menos para esos ejemplos funciona bien.
+Como habrán notado una de las respuestas no fue la esperada, esto significa que la función no andaba bien, ¡y lo pudimos detectar con nuestra propia función!
