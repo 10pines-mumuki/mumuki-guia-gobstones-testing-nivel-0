@@ -8,7 +8,7 @@ Ahora bien.. nuestro test se limita a mostrar en pantalla ciertos resultados, pe
 Para esto vamos a usar las `aserciones`. Una aserción es justamente lo que hablamos,
 asegurarse de que algo es de cierta manera.
 
-Usualmente lo que hace para esto
-es implementar una función `assert` que verifica si un enunciado es verdadero, y
-en caso de que no lo sea lanza una excepción. A continuación te invitamos
-a que implementes esta función:
+Pensemos.. podríamos implementar una función `assert` que verifique si un enunciado es verdadero, y
+en caso de que no lo sea lanza una excepción.
+
+> Implementá la función ```assert(predicado)```
