@@ -1,6 +1,6 @@
 Ok.. Nosotros lo que hicimos por ahora fue hacer un solo gran test
 que testea muchas cosas. El problema con esto es que cuando nuestros
-tests fallas no sabemos qué produjo la falla.
+tests fallan no sabemos qué produjo la falla.
 
 Sería mejor si separamos nuestros tests en 3 tests y que cada uno contenga
 una sola aserción.
