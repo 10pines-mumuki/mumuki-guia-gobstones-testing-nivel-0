@@ -6,5 +6,5 @@ Hasta ahora implementamos un simple `assert` que valida que algo sea cierto. Eso
 
 > Implementá un ```assert_equals(valor_esperado, valor_obtenido)``` que falle cuando los valores sean distintos y devuelva un mensaje expresivo al respecto.
 
-> Hacé que ```assert_equals``` reuse ```assert```
+> Ah... y hacé que ```assert_equals``` reuse ```assert```
 
