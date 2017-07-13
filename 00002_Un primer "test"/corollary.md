@@ -1,1 +1,0 @@
-Probablemente hayas notado que una de las respuestas no fue la esperada, esto significa que la función no andaba bien, *¡y lo pudimos detectar con código!*
