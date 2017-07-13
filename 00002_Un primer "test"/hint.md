@@ -1,4 +1,4 @@
-Para definir una clase con un método ss suficiente con hacer:
+Para definir una clase con un método es suficiente con hacer:
 
 ``` ruby
 class nombreDeLaClase
