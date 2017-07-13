@@ -1,8 +1,12 @@
-Para definir una función nueva es suficiente con hacer:
+Para definir una clase con un método ss suficiente con hacer:
 
 ``` ruby
-def nombre_de_la_funcion(parametro)
-...
+class nombreDeLaClase
+
+  def nombre_de_la_funcion(parametro)
+    ...
+  end
+
 end
 ```
 

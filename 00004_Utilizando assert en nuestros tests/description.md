@@ -1,6 +1,7 @@
-¡Bien! Lo queremos ahora es reimplementar
-esos tests utilizando a función assert.
+¡Bien! 
 
-¿Te animás a intentarlo?
+> Ahora reimplementá los tests utilizando la función assert.
 
-(Acá le regalamos el código del test anterior usando puts)
+
+
+
