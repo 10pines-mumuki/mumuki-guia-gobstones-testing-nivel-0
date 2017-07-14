@@ -1,9 +1,9 @@
-Recordá que para ejecutar un método de ruby, podés correr en la consola:
+Aclaración: si no pasa nada significa que todo está bien. No está muy bueno eso, ¿no?
 
-```ruby
-ruby -r "./nombre_del_archivo.rb" -e "TestClass.new.test_function 'hi'"
-```
+Ah.. y recordá que los métodos de tests se llamaban:
 
-El nombre del archivo es "test_positivo.rb"
+* `test_0_no_es_positivo`
+* `test_1_es_positivo`
+* `test_menos_1_no_es_positivo`
 
-Y si.. esta vez no tiró excepciones.. los tests pasaron.
+.. y que el nombre de la clase de test era `TestPositivometro`.
