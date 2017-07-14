@@ -1,1 +1,1 @@
-Si un método no se llama mas ~test_positivo~ , borrémoslo
+Si un método no se llama mas ~~test_positivo~~ , borrémoslo
