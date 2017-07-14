@@ -13,6 +13,4 @@ una sola aserción.
 
 > - `test_1_es_positivo` 
 
-> - `test_menos_1_no_es_positivo` 
-
-> y hacé que se llamen todos desde `test_positivo` 
+> - `test_menos_1_no_es_positivo`  
