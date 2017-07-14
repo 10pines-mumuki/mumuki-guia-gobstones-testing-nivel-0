@@ -1,6 +1,6 @@
-Ok. Ahora que tenemos nuestro test, necesitamos "correrlo" de alguna forma para saber si rompe o no.
+_Los tests tienen sentido para ser corridos..._. 
 
-*Los tests tienen sentido para ser corridos*. 
+Ok. Ahora que tenemos nuestro test, necesitamos "correrlo" :running: de alguna forma para saber si rompe o no.
 
 Para ejecutar un método de ruby, podés correr en la consola:
 

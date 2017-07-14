@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: assert_equals
+  inspection: Uses:assert

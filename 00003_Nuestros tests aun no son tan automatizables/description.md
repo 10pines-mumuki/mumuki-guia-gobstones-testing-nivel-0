@@ -1,6 +1,8 @@
-Como habrás notado, una de las respuestas no fue la esperada. ¡Bien! Esto
+Como habrás notado, una de las respuestas no fue la esperada.
+
+¡Bien! Esto
 es una gran ayuda para Carlos, ya sabe qué caso tiene que analizar para
-eliminar un *bug* en su código.
+eliminar un *bug* :beetle: en su código.
 
 *Lo importante es que nos dimos cuenta de esto escribiendo código*.
 
