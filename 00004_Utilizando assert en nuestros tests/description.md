@@ -1,6 +1,6 @@
 ¡Bien! 
 
-> Ahora reimplementá el test utilizando la función assert.
+> Ahora reimplementá los tests de TestPositivometro utilizando la función asertar de Test.
 
 Recordá que los que queríamos testear era que:
 
