@@ -5,7 +5,8 @@ Ok. Ahora que tenemos nuestro test, necesitamos "correrlo" :running: de alguna f
 Para ejecutar un método de ruby, podés correr en la consola:
 
 ```ruby
-ruby -r "./nombre_del_archivo.rb" -e "TestClass.new.test_function 'hi'"
+ruby './nombre_del_archivo.rb'
+"TestClass.new.test_function 'hi'"
 ```
 
 Asumí que el nombre del archivo es "test_positivo.rb"
