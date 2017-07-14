@@ -1,4 +1,4 @@
-Recordá que para mandarle un mensaje a TestPositivometro, tenés que instanciarlo previamente:
+Recordá que para mandarle un mensaje a TestPositivometro (o a cualquier clase con métodos de instancia), tenés que instanciarlo previamente:
 
 ```ruby
 
