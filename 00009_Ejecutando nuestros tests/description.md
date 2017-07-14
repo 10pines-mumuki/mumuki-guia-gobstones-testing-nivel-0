@@ -1,3 +1,3 @@
 Ok... 
 
-> Volvé a correr los tests y fijate qué pasa
+> Volvé a correr el método `TestPositivometro#test_positivo` y fijate qué pasa
