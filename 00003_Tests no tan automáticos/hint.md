@@ -1,5 +1,3 @@
-Recordá: si el predicado es falso, debería tirar una excepción.
-
 La excepción podría levantarse de la siguiente forma:
 
 ```ruby 
