@@ -1,3 +1,7 @@
-Recordá que el método era `test_positivo`.
+Recordá que para mandarle un mensaje a TestPositivometro, tenés que instanciarlo previamente:
 
-Deberías ver el mensaje que escribiste antes.. ¿notás algo raro?
+```ruby
+
+NombreClase.new.metodo_de_instancia
+
+```
