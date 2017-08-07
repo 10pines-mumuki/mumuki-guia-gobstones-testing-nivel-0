@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: "*"
-  inspection: declaresClass:TestPositivometro
+  inspection: DeclaresClass:TestPositivometro
 - binding: TestPositivometro
-  inspection: declaresMethod:test_positivo
+  inspection: DeclaresMethod:test_positivo
