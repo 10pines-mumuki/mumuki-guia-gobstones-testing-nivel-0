@@ -1,9 +1,10 @@
 class TestPositivometro
   
   def test_positivo
-    puts "Para el 1 da: #{Positivometro.new.es_positivo? 1}"
-    puts "Para el -1 da #{Positivometro.new.es_positivo? -1}"
-    puts "Para el 0 da #{Positivometro.new.es_positivo? 0}"
+    positivometro = Positivometro.new
+    puts "Para el 1 da: #{positivometro.es_positivo? 1}"
+    puts "Para el -1 da: #{positivometro.es_positivo? -1}"
+    puts "Para el 0 da: #{positivometro.es_positivo? 0}"
   end
   
 end
