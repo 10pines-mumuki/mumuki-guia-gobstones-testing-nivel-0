@@ -1,12 +1,11 @@
-class Test 
-  def asertar(predicado)
-    raise RuntimeException.new "El resultado no fue verdadero" if !predicado
-  end
-end
-
 class Positivometro
-  def es_positivo? numero
-    numero >= 0
+  def es_positivo?(un_numero)
+    un_numero > 0
   end
 end
 
+class Test
+  def asertar(predicado)
+    raise 'El predicado no es verdadero' unless predicado
+  end
+end
