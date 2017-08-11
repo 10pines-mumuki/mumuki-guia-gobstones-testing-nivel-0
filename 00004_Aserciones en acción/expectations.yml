@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresClass:TestPositivometro
+- binding: TestPositivometro
+  inspection: DeclaresMethod:test_positivo
+- binding: TestPositivometro
+  inspection: Inherits:Test
