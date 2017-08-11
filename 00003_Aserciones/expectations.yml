@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresClass:Test
+- binding: Test
+  inspection: DeclaresMethod:asertar
