@@ -1,4 +1,4 @@
-describe "TestPositivometro" do 
+describe "TestPositivometro#test_positivo" do 
   subject do
     TestPositivometro.new.test_positivo
   end    

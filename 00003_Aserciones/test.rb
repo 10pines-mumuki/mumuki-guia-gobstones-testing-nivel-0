@@ -12,7 +12,7 @@ describe "Test#asertar" do
     
   end
   
-    context "if the parameter is false" do
+  context "if the parameter is false" do
     let(:predicado) { false }
     
     it "does nothing" do
