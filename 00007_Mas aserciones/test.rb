@@ -1,3 +1,4 @@
+TODO: 
 describe "Test#asertar_igualdad" do
 
   subject do
@@ -26,6 +27,8 @@ describe "Test#asertar_igualdad" do
 
 end
 
+
+
 describe "TestPositivometro#test_0_no_es_positivo" do 
   
   subject do
@@ -41,8 +44,8 @@ describe "TestPositivometro#test_0_no_es_positivo" do
     subject
   end
   
-  it "llama a asertar_igualdad" do
-    expect_any_instance_of(TestPositivometro).to receive(:asertar_igualdad).once
+  it "llama a asertar" do
+    expect_any_instance_of(TestPositivometro).to receive(:asertar).once
     subject
   end
   
@@ -63,8 +66,8 @@ describe "TestPositivometro#test_menos_1_no_es_positivo" do
     subject
   end
   
-  it "llama a asertar_igualdad" do
-    expect_any_instance_of(TestPositivometro).to receive(:asertar_igualdad).once
+  it "llama a asertar" do
+    expect_any_instance_of(TestPositivometro).to receive(:asertar).once
     subject
   end
   
@@ -85,8 +88,8 @@ describe "TestPositivometro#test_1_es_positivo" do
     subject
   end
   
-  it "llama a asertar_igualdad" do
-    expect_any_instance_of(TestPositivometro).to receive(:asertar_igualdad).once
+  it "llama a asertar" do
+    expect_any_instance_of(TestPositivometro).to receive(:asertar).once
     subject
   end
   
