@@ -1,4 +1,3 @@
-TODO: 
 describe "Test#asertar_igualdad" do
 
   subject do
