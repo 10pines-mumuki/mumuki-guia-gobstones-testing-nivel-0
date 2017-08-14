@@ -76,7 +76,7 @@ end
 describe "TestPositivometro#test_1_es_positivo" do 
   
   subject do
-    TestPositivometro.new.
+    TestPositivometro.new.test_1_es_positivo
   end    
   
   it "no falla" do
