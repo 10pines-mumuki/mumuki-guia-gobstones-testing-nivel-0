@@ -7,7 +7,7 @@ teacher_info: "En esta lección vamos a empezar con unas *primerísimas* ideas s
   lo que implica el testing automatizado. Pero como somos contradictorios, vamos a
   implementar _manualmente_ varias de esas cosas. \n\nIgualmente lo hacemos de esta
   forma porque creemos que va a parecer todo mas natural cuando realmente veamos cómo
-  automatizarlas (cosa que explicamos mas adelante en este capítulo).\n\n\n"
+  automatizarlas (cosa que explicamos mas adelante en este capítulo).\n"
 language: ruby
 id_format: "%05d"
 order:
