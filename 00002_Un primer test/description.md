@@ -1,6 +1,6 @@
 Carlos, un compañero nuestro, escribió una clase `Positivometro` que define el siguiente mensaje:
 
-``` ruby
+```ruby
 es_positivo?(un_numero)
 ```
 
