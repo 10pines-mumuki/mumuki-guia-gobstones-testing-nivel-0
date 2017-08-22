@@ -1,3 +1,3 @@
-¿Pero qué ganamos al usar `asertar`? ¿De qué nos sirve que el test "sepa" que el programa falló?  Veamos primero un ejemplo de uso. 
+¿Ah, no nos creés?
 
 > Volvé a correr el método `TestPositivometro#test_positivo` y fijate qué pasa
