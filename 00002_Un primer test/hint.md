@@ -1,4 +1,4 @@
-Para definir una clase con un método es suficiente con hacer:
+Recordá que para definir una clase con un método es suficiente con hacer:
 
 ``` ruby
 class nombreDeLaClase
