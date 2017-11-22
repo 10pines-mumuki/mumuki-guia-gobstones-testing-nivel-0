@@ -1,3 +1,3 @@
-¿Ah, no nos creés?
+No nos creas.. ¡probalo vos!
 
-> Volvé a correr el método `TestPositivometro#test_positivo` y fijate qué pasa
+> Volvé a correr el método `TestPositivometro.new.test_positivo` y fijate qué pasa
