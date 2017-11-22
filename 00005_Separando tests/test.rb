@@ -48,6 +48,11 @@ describe "TestPositivometro.new.test_1_es_positivo" do
     TestPositivometro.new.test_1_es_positivo
   end    
   
+  it "llama a es_positivo?(1)" do
+   expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(1)
+    subject
+  end
+  
   it "no falla" do
     expect { subject }.to_not raise_error
   end
