@@ -5,7 +5,7 @@ describe "TestPositivometro.new.test_1_es_positivo" do
   end    
   
   it "llama a es_positivo?(1)" do
-   expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(1)
+   expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(0)
     subject
   end
   
