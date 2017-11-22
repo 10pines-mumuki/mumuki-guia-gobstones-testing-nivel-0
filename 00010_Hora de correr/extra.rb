@@ -1,4 +1,4 @@
-#...previousSolution...
+/*...previousSolution...*/
 
 class Positivometro
   def es_positivo?(un_numero)
