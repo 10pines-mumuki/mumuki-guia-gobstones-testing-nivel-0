@@ -1,4 +1,4 @@
-describe "TestPositivometro#test_0_no_es_positivo" do 
+describe "TestPositivometro.new.test_0_no_es_positivo" do 
   
   subject do
     TestPositivometro.new.test_0_no_es_positivo
@@ -20,7 +20,7 @@ describe "TestPositivometro#test_0_no_es_positivo" do
   
 end
 
-describe "TestPositivometro#test_menos_1_no_es_positivo" do 
+describe "TestPositivometro.new.test_menos_1_no_es_positivo" do 
   
   subject do
     TestPositivometro.new.test_menos_1_no_es_positivo
@@ -42,7 +42,7 @@ describe "TestPositivometro#test_menos_1_no_es_positivo" do
   
 end
 
-describe "TestPositivometro#test_1_es_positivo" do 
+describe "TestPositivometro.new.test_1_es_positivo" do 
   
   subject do
     TestPositivometro.new.test_1_es_positivo
