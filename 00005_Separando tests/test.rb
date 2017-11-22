@@ -52,11 +52,6 @@ describe "TestPositivometro.new.test_1_es_positivo" do
     expect { subject }.to_not raise_error
   end
   
-  it "llama a es_positivo?(1)" do
-   expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(1)
-    subject
-  end
-  
   it "llama a asertar" do
     expect_any_instance_of(TestPositivometro).to receive(:asertar).once
     subject
