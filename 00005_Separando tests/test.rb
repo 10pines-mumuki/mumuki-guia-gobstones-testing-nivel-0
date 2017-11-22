@@ -26,8 +26,8 @@ describe "TestPositivometro.new.test_0_no_es_positivo" do
     TestPositivometro.new.test_0_no_es_positivo
   end    
   
-  it "no falla" do
-    expect { subject }.to_not raise_error
+  it "falla" do
+    expect { subject }.to raise_error
   end
   
   it "llama a es_positivo?(0)" do
