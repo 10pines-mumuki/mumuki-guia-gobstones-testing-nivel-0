@@ -9,8 +9,8 @@ describe "TestPositivometro#test_positivo" do
     subject
   end
   
-  it "llama a es_positivo?(1)" do
-    expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(1)
+  it "llama a es_positivo?" do
+    expect_any_instance_of(Positivometro).to receive(:es_positivo?).exactly(3).times
     subject
   end
   
