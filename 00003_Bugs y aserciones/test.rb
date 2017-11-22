@@ -3,19 +3,19 @@ describe "Test#asertar" do
     Test.new.asertar(predicado)
   end    
   
-  context "if the parameter is true" do
+  context "si la condicion es cierta" do
     let(:predicado) { true }
     
-    it "does nothing" do
+    it "hace nada" do
       expect {subject}.to_not raise_exception
     end
     
   end
   
-  context "if the parameter is false" do
+  context "si la condicion es falsa" do
     let(:predicado) { false }
     
-    it "does nothing" do
+    it "lanza una excepcion" do
       expect {subject}.to raise_exception(RuntimeError)
     end
     
