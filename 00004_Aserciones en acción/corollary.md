@@ -1,5 +1,8 @@
-Antes teníamos **un programa (el test) que usaba nuestro programa (el positivómetro)**, pero éste no estaba al tanto sobre si nuestro código funcionaba o no: simplemente nos escribía el resultado y nosotros, humanos, lo interpretábamos.
+Antes teníamos un `TestPositivometro` que usaba nuestro programa `Positivometro`. 
 
-Ahora el código que testea nuestro código sí "sabe": si rompe, no funciona y si no rompe, funciona. ¡No tenemos que ponernos a leer lo que se imprimió por pantalla!
+Peeero, `TestPositivometro` no estaba al tanto realmente sobre si el `Positivometro` funcionaba o no: simplemente nos escribía el resultado y nosotros, humanos, lo interpretábamos.
 
-Uff, medio trabalenguas :sweat_smile:..., ¿no?
+Ahora `TestPositivometro` sí "sabe": 
+
+* Si `es_positivo?` está bien hecho entonces `test_positivo` pasa y está todo bien 
+* Si `ès_positivo?` está mal hecho entonces `test_positivo` debería romper... no?
