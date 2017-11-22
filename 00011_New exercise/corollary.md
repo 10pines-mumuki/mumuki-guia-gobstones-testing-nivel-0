@@ -1,1 +1,1 @@
-Breve comentario: una mejor solución sería que `correr_suite` esté definido en Test para que todas las clases de tests tengan ese comportamiento. El problema es que para hacer eso, necesitamos tomar un toque mas de [sopa](https://mumuki.io/chapters/38-metaprogramacion) 
+Breve comentario: una mejor solución sería que `correr_suite` esté definido en Test para que todas las clases de tests tengan ese comportamiento. El problema es que para hacer eso, necesitamos tomar un toque mas de [sopa](https://mumuki.io/chapters/38-metaprogramacion)  :stew:
