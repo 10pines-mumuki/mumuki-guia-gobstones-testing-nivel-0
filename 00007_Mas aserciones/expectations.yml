@@ -4,15 +4,7 @@ expectations:
   inspection: DeclaresClass:TestPositivometro
 - binding: "*"
   inspection: DeclaresClass:Test
-- binding: Test
-  inspection: DeclaresMethod:asertar_igualdad
 - binding: asertar_igualdad
   inspection: Uses:asertar
-- binding: TestPositivometro
-  inspection: Inherits:Test
-- binding: TestPositivometro
-  inspection: DeclaresMethod:test_0_no_es_positivo
-- binding: TestPositivometro
-  inspection: DeclaresMethod:test_1_es_positivo
-- binding: TestPositivometro
-  inspection: DeclaresMethod:test_menos_1_no_es_positivo
+- binding: Test
+  inspection: DeclaresMethod:asertar_igualdad
