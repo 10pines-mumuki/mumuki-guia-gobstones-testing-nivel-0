@@ -14,7 +14,7 @@ describe "Test#asertar_igualdad" do
     
   end
   
-  context "si los valores sin distintos" do
+  context "si los valores son distintos" do
     let(:valor_esperado) { 1 }
     let(:valor_obtenido) { 0 }
     
@@ -25,8 +25,6 @@ describe "Test#asertar_igualdad" do
   end
 
 end
-
-
 
 describe "TestPositivometro#test_0_no_es_positivo" do 
   
