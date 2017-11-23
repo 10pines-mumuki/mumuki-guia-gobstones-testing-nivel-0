@@ -1,4 +1,4 @@
-describe "Test#asertar_igualdad" do
+describe "Test.new.asertar_igualdad" do
 
   subject do
     Test.new.asertar_igualdad(valor_esperado, valor_obtenido)
@@ -26,7 +26,7 @@ describe "Test#asertar_igualdad" do
 
 end
 
-describe "TestPositivometro#test_0_no_es_positivo" do 
+describe "TestPositivometro.new.test_0_no_es_positivo" do 
   
   subject do
     TestPositivometro.new.test_0_no_es_positivo
@@ -48,7 +48,7 @@ describe "TestPositivometro#test_0_no_es_positivo" do
   
 end
 
-describe "TestPositivometro#test_menos_1_no_es_positivo" do 
+describe "TestPositivometro.new.test_menos_1_no_es_positivo" do 
   
   subject do
     TestPositivometro.new.test_menos_1_no_es_positivo
@@ -70,7 +70,7 @@ describe "TestPositivometro#test_menos_1_no_es_positivo" do
   
 end
 
-describe "TestPositivometro#test_1_es_positivo" do 
+describe "TestPositivometro.new.test_1_es_positivo" do 
   
   subject do
     TestPositivometro.new.test_1_es_positivo
