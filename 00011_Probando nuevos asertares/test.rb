@@ -1,3 +1,20 @@
+describe "TestPositivometro.new.cantidad_de_positivos_devuelve_la_cantidad_correcta_dada_una_lista" do 
+  
+  subject do
+    TestPositivometro.new.cantidad_de_positivos_devuelve_la_cantidad_correcta_dada_una_lista
+  end    
+  
+  it "no falla" do
+    expect { subject }.to_not raise_error
+  end
+  
+  it "llama a asertar_igualdad con los valores descritos en el enunciado" do
+    expect_any_instance_of(TestPositivometro).to receive(:asertar_igualdad).once.with([2,4,0,-1], 2)
+    subject
+  end
+  
+end
+
 describe "TestPositivometro.new.test_0_no_es_positivo" do 
   
   subject do
