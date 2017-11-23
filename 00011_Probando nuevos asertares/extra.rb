@@ -8,3 +8,16 @@ class Positivometro
   end
 end
 
+class Test
+  def asertar_igualdad(valor_esperado, valor_obtenido)
+    asertar(valor_esperado == valor_obtenido)
+    rescue
+    	raise "Se esperaba #{valor_esperado} pero se obtuvo #{valor_obtenido}"
+  end
+  
+  def asertar(condicion)
+    'El predicado no fue verdadero' unless condicion
+  end
+  
+end
+
