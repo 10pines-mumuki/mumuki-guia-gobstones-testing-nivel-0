@@ -7,3 +7,4 @@ class Positivometro
     return lista_de_numeros.count{|num| num > 0 }
   end
 end
+
