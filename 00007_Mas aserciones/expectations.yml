@@ -1,8 +1,6 @@
 ---
 expectations:
 - binding: "*"
-  inspection: DeclaresClass:TestPositivometro
-- binding: "*"
   inspection: DeclaresClass:Test
 - binding: asertar_igualdad
   inspection: Uses:asertar
