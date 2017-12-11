@@ -6,5 +6,5 @@ expectations:
   inspection: DeclaresMethod:test_positivo
 - binding: TestPositivometro
   inspection: Calls:puts
-- binding: TestPositivometro
+- binding: Positivometro
   inspection: Calls:es_positivo?
