@@ -6,3 +6,5 @@ expectations:
   inspection: DeclaresMethod:test_positivo
 - binding: TestPositivometro
   inspection: Inherits:Test
+- binding: TestPositivometro
+  inspection: Calls:asertar
