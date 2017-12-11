@@ -4,4 +4,4 @@ Hasta ahora venís programando sin parar, ¿pero se te ocurrió probar lo que hi
 
 Todo bien, pero esas cosas son demasiado manuales... y a nosotros nos gusta programar. Por lo tanto, ¿no podríamos hacer código que pruebe código?
 
-Si. Parece un trabalenguas pero no es tan difícil. Acompañanos :)
+Si. Parece un trabalenguas pero no es tan difícil. Acompañanos :smile:
