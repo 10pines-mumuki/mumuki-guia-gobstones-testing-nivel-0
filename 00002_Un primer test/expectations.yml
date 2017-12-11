@@ -9,4 +9,4 @@ expectations:
 - binding: TestPositivometro
   inspection: Calls:es_positivo?
 - binding: TestPositivometro
-  inspection: Uses:Positivometro
+  inspection: Instantiates:Positivometro
