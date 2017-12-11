@@ -8,5 +8,3 @@ expectations:
   inspection: Calls:puts
 - binding: TestPositivometro
   inspection: Calls:es_positivo?
-- binding: TestPositivometro
-  inspection: Instantiates:Positivometro
