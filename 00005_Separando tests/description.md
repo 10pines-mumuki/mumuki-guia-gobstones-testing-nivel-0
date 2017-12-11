@@ -1,6 +1,6 @@
 No está tan bueno que si un solo test falla, no se corran los demás, ¿no? 
 
-Oo que hicimos por ahora fue hacer un solo gran test
+Lo que hicimos por ahora fue hacer un solo gran test
 que prueba muchas cosas. El problema con esto es que cuando nuestros
 tests fallan no sabemos qué produjo la falla.
 
