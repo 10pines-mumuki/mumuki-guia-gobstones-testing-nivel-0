@@ -1,7 +1,7 @@
 Recordá que para definir una clase con un método es suficiente con hacer:
 
 ``` ruby
-class nombreDeLaClase
+class NombreDeLaClase
 
   def nombre_del_metodo(parametro)
     ...
