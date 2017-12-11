@@ -6,4 +6,8 @@ es_positivo?(un_numero)
 
 Toma un número como parámetro y devuelve `true` si es mayor a 0 y `false` si es menor o igual.
 
-> Descubramos si funciona: implementá la clase `TestPositivometro` con un método que se llame `test_positivo` en el que instancie un `Positivometro` y le mande `es_positivo?` para el -1, 0 y 1 y muestre los resultados por pantalla.
+> Descubramos si funciona: 
+>
+>   1. implementá la clase `TestPositivometro`
+>   2. definí el método `test_positivo` dentro de esa clase
+>   3. en este método instanciá un `Positivometro`, mandale `es_positivo?` para el -1, 0 y 1 y muestrá los resultados por pantalla.
