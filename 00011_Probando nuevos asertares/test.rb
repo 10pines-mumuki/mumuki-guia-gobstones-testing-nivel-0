@@ -9,9 +9,14 @@ describe "TestPositivometro.new.cantidad_de_positivos_devuelve_la_cantidad_corre
   end
   
   it "llama a asertar_igualdad con los valores descritos en el enunciado" do
-    expect_any_instance_of(TestPositivometro).to receive(:asertar_igualdad).once.with([2,4,0,-1], 2)
+    expect_any_instance_of(TestPositivometro).to receive(:asertar_igualdad).once.with(2, 2)
     subject
   end
+  
+  it "llasdasda s" do
+      expect_any_instance_of(Positivometro).to receive(:cantidad_de_positivos).once.with([2, 4, 0, -1])
+    subject
+  end  
   
 end
 
