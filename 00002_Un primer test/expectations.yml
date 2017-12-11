@@ -4,3 +4,5 @@ expectations:
   inspection: DeclaresClass:TestPositivometro
 - binding: TestPositivometro
   inspection: DeclaresMethod:test_positivo
+- binding: TestPositivometro
+  inspection: Calls:puts
