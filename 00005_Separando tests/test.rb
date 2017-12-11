@@ -31,7 +31,7 @@ describe "TestPositivometro.new.test_0_no_es_positivo" do
   end
   
   it "llama a es_positivo?(0)" do
-   expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(0)
+   expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(0).and_return(false)
     subject
   end
   
@@ -53,7 +53,7 @@ describe "TestPositivometro.new.test_menos_1_no_es_positivo" do
   end
   
   it "llama a es_positivo?(-1)" do
-   expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(-1)
+   expect_any_instance_of(Positivometro).to receive(:es_positivo?).with(-1).and_return(false)
     subject
   end
   
