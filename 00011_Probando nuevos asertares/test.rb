@@ -13,7 +13,7 @@ describe "TestPositivometro.new.cantidad_de_positivos_devuelve_la_cantidad_corre
     subject
   end
   
-  it "llasdasda s" do
+  it "llama a Positivometro#cantidad_de_positivos con el valor descrito en el enunciado" do
       expect_any_instance_of(Positivometro).to receive(:cantidad_de_positivos).once.with([2, 4, 0, -1])
     subject
   end  
