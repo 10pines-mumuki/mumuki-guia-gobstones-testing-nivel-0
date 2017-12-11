@@ -5,7 +5,7 @@ que prueba muchas cosas. El problema es que cuando nuestros
 tests fallan no sabemos cuál produjo la falla.
 
 Sería mejor si separáramos nuestros tests en 3 métodos y que cada uno contenga
-una sola aserción.
+una sola aserción :sunglasses:.
 
 > Implementá los tests siguientes tests:
 
