@@ -1,4 +1,4 @@
-¡Ups! El cero **no** es positivo, así que una de las respuestas no fue la esperada: 
+¡Ups! El cero **no** es positivo, así que una de las respuestas no fue la esperada, que sería algo asi como: 
 
 ```
 Para el 0 da: true
