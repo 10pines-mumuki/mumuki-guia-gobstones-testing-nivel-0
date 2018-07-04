@@ -1,4 +1,4 @@
-Ahora Carlos va a hacer uso de su código. Acaba de implementar `cantidad_de_positivos` que recibe una colección de números y devuelve la cantidad de positivos.
+Ahora Carlos va a hacer uso de su código.. Acaba de implementar `cantidad_de_positivos` que recibe una colección de números y devuelve la cantidad de positivos.
 
 Nosotros queremos probar la siguiente colección: `[2,4,0,-1]` (la cual debería devolver 2).
 
